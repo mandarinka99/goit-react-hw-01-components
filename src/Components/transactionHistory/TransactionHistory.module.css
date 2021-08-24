@@ -1,0 +1,26 @@
+.transactionHistory {
+  padding: 100px 80px;
+}
+
+.table {
+  min-width: 520px;
+}
+
+.table thead {
+  background-color: #04bcd5;
+  color: #fff;
+}
+
+.table tbody {
+  color: #777;
+}
+
+.table th,
+.table td {
+  padding: 12px;
+  text-align: center;
+}
+
+.table tr:nth-child(2n) {
+  background-color: #fff;
+}
